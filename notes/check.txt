@@ -1,0 +1,12 @@
+INFO Дата перевірки: 2026-11-02T13:56:22Z
+INFO Система: Darwin 27.0.0
+INFO Оболонка: bash 3.2.57(1)-release
+PASS W1: робоча папка «� існує, назва без пробілів і без літер поза латиницею
+PASS W2: є підпапки notes, practice, projects
+PASS W3: README.md: непорожніх рядків - 5
+PASS W4: git version 2.52.0 (потрібно 2.30 або новіший)
+INFO Git core.editor: nvim
+PASS W5: VS Code 1.144.0, команда code доступна в терміналі
+PASS W6: notes/plan.md і notes/schedule.md на місці
+PASS W7: notes/obstacle.md описує перешкоду і спосіб її усунення
+Результат: PASS
