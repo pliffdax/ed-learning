@@ -1,0 +1,8 @@
+Q1=C:\Users\anna\paths-hw\docs\archive\old-plan.txt
+Q2=/home/anna/paths-hw/docs/archive/old-plan.txt
+Q3=../docs/plan.txt
+Q4=../../site/img/logo.svg
+Q5=.settings
+Q6=2
+Q7=1
+Q8=site
